@@ -56,8 +56,8 @@ Popularity-Based Recommender: Generates top-rated products for new users with no
 Collaborative Filtering: Predicts user preferences and suggests products based on similar users or items.
 Self-Attention Transformer: Leverages deep learning to identify product relationships and improve recommendations.
 
-###Contributing
-We welcome contributions to improve this project! Here's how you can help:
+### Contributing
+We welcome contributions to improve this project! Here's how you can help: contact @ mcobbinah@torontomu.ca
 
 ### Fork the repository.
 Create a feature branch: 
