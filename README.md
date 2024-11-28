@@ -44,32 +44,33 @@ pip install -r requirements.txt
 
 ### Dataset
 The dataset used in this project can be downloaded from Kaggle: Amazon Ratings Dataset.
-
 Sign in to Kaggle and download the ratings_Beauty.csv file.
 Place the dataset in the data directory of the repository.
-Usage
+
+### Usage
 Run the Jupyter Notebook or Python script to explore the dataset and build recommendation engines.
 Customize the code to input user IDs and generate personalized recommendations.
-Results
+
+### Results
 Popularity-Based Recommender: Generates top-rated products for new users with no purchase history.
 Collaborative Filtering: Predicts user preferences and suggests products based on similar users or items.
 Self-Attention Transformer: Leverages deep learning to identify product relationships and improve recommendations.
-Contributing
+
+###Contributing
 We welcome contributions to improve this project! Here's how you can help:
 
 ### Fork the repository.
-Create a feature branch:
+Create a feature branch: 
 bash
-Copy code
-git checkout -b feature-name
+Copy code git checkout -b feature-name
+
 Commit your changes:
 bash
-Copy code
-git commit -m "Description of your changes"
+Copy code git commit -m "Description of your changes"
+
 Push the branch:
 bash
-Copy code
-git push origin feature-name
+Copy code git push origin feature-name
 Open a pull request, describing your changes in detail.
 
 ### License
